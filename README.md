@@ -2,6 +2,6 @@
 
 ### Hi there 👋
 - 🚢 Open source contributor
-- 🚀 Kubernetes, .NET Core and React stacks
+- 🚀 Kubernetes, .NET Core and React
 - 👑 HotChocolate, MassTransit and Quartz
 - 💕 Cats and whales 🐳
