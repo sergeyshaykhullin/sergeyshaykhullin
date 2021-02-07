@@ -13,5 +13,5 @@
 <br>
 
 <div align="center">
-   <img src="https://github-profile-trophy.vercel.app/?username=sergeyshaykhullin&theme=flat" />
+   <img src="https://github-profile-trophy.vercel.app/?username=sergeyshaykhullin&theme=flat&no-frame=true" />
 </div>
