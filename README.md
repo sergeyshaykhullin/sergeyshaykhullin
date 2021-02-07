@@ -10,7 +10,7 @@
 - 🤝 Always open for cooperation
 - 💕 Cats and whales 🐳
 
----
+<br>
 
 <div align="center">
    <img src="https://github-profile-trophy.vercel.app/?username=sergeyshaykhullin&theme=flat" />
