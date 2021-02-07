@@ -2,6 +2,6 @@
 
 ### Hi there 👋
 - 🚀 Focusing on Kubernetes, .NET Core and TypeScript
-- 👀 Open source contributor
+- 🚢 Open source contributor
 - 💕 HotChocolate, MassTransit and Quartz
 - 🐱 Cats lover
