@@ -4,4 +4,4 @@
 - 🚢 Open source contributor
 - 🚀 Kubernetes, .NET Core and React stacks
 - 👑 HotChocolate, MassTransit and Quartz
-- 💕 Cats
+- 💕 Cats and whales 🐳
