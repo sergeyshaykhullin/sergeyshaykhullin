@@ -9,3 +9,5 @@
 - 👑 HotChocolate, MassTransit and Quartz
 - 🤝 Always open for cooperation
 - 💕 Cats and whales 🐳
+
+<img align="center" src="https://github-profile-trophy.vercel.app/?username=sergeyshaykhullin&theme=flat" />
