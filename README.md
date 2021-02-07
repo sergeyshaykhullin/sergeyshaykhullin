@@ -15,3 +15,6 @@
 <div align="center">
    <img src="https://github-profile-trophy.vercel.app/?username=sergeyshaykhullin&theme=flat&no-frame=true&margin-h=15" />
 </div>
+
+<!-- It is https://yhype.me/ views count tracker, please remove it or use your own -->
+![](https://hit.yhype.me/github/profile?user_id=46970457)
