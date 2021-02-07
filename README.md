@@ -3,5 +3,5 @@
 ### Hi there 👋
 - 🚢 Open source contributor
 - 🚀 Kubernetes, .NET Core and React stacks
-- 💕 HotChocolate, MassTransit and Quartz
-- 🐱 Cats lover
+- 👑 HotChocolate, MassTransit and Quartz
+- 💕 Cats
