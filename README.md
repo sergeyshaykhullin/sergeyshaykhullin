@@ -8,7 +8,7 @@
 - 🚀 Kubernetes, .NET Core and React
 - 👑 HotChocolate, MassTransit and Quartz
 - 🤝 Always open for cooperation
-- 💕 Cats and whales 🐳
+- ❤️ Cats and whales 🐳
 
 <br>
 
