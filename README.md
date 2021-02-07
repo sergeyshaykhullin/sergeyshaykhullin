@@ -5,4 +5,3 @@
 - 👑 HotChocolate, MassTransit and Quartz
 - 💕 Cats and whales 🐳
 - 💕 Cats and whales 🐳
-- 💕 Cats and whales 🐳
