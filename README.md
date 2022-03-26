@@ -14,5 +14,9 @@
    <img src="https://github-profile-trophy.vercel.app/?username=sergeyshaykhullin&theme=flat&no-frame=true&margin-w=30" />
 </div>
 
+<div align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sergeyshaykhullin" alt="sergeyshaykhullin" />
+</div>
+
 <!-- It is https://yhype.me/ views count tracker, please remove it or use your own -->
 ![](https://hit.yhype.me/github/profile?user_id=46970457)
