@@ -18,5 +18,8 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=sergeyshaykhullin" alt="sergeyshaykhullin" />
 </div>
 
-<!-- It is https://yhype.me/ views count tracker, please remove it or use your own -->
+<div align="center">
+   <img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sergeyshaykhullin&theme=github-light"/>
+</div>
+
 ![](https://hit.yhype.me/github/profile?user_id=46970457)
