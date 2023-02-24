@@ -19,7 +19,7 @@
 </div>
 
 <div align="center">
-   <img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sergeyshaykhullin&theme=github-light"/>
+   <img alt="Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=sergeyshaykhullin&theme=github-light"/>
 </div>
 
 ![](https://hit.yhype.me/github/profile?user_id=46970457)
