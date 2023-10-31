@@ -22,4 +22,16 @@
    <img alt="Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=sergeyshaykhullin&theme=github-light"/>
 </div>
 
+<div align="center">
+   <img alt="Activity Graph" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sergeyshaykhullin&theme=github-light"/>
+</div>
+
+<div align="center">
+   <img alt="Activity Graph" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sergeyshaykhullin&theme=github-light"/>
+</div>
+
+<div align="center">
+   <img alt="Activity Graph" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sergeyshaykhullin&theme=github-light"/>
+</div>
+
 ![](https://hit.yhype.me/github/profile?user_id=46970457)
